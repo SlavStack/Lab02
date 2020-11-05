@@ -7,14 +7,19 @@ public class Hello {
 		// Add a new line with your information
 		System.out.println("SacStateID: 302032146 - This line was added by Valentin Bakalor.");
 		System.out.println("SacStateID: 218714406 - This line was added by Momin Choudhry.");
+<<<<<<< HEAD
 		System.out.println("SacStateID: 301903095 - This line was added by Nick Fairneny.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
+=======
+		System.out.println("SacStateID - This line was added by First name Last name.");
+		System.out.println("SacStateID: 220036558 - This line was added by Jeff Anjelo Rondilla.");
+>>>>>>> branch 'master' of https://github.com/SlavStack/Lab02.git
 		System.out.println("SacStateID - This line was added by First name Last name.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
 
-}
+	}
 
 }
