@@ -12,7 +12,7 @@ public class Hello {
 		System.out.println("SacStateID: 301903095 - This line was added by Nick Fairneny.");
 		System.out.println("SacStateID: 302002051 - This line was added by Trevor Ahlberg.");
 =======
-		System.out.println("SacStateID - This line was added by Jacob Myers.");
+		System.out.println("SacStateID: 301765464 - This line was added by Jacob Myers.");
 		System.out.println("SacStateID: 220036558 - This line was added by Jeff Anjelo Rondilla.");
 >>>>>>> branch 'master' of https://github.com/SlavStack/Lab02.git
 		System.out.println("SacStateID - This line was added by First name Last name.");
