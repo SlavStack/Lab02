@@ -10,7 +10,7 @@ public class Hello {
 		System.out.println("SacStateID: 219568298 - This line was added by Milford Gover.");
 <<<<<<< HEAD
 		System.out.println("SacStateID: 301903095 - This line was added by Nick Fairneny.");
-		System.out.println("SacStateID: 302002051 - This line was added by Trevor Ahlberg. This is an addition message to test push issue");
+		System.out.println("SacStateID: 302002051 - This line was added by Trevor Ahlberg.");
 =======
 		System.out.println("SacStateID - This line was added by First name Last name.");
 		System.out.println("SacStateID: 220036558 - This line was added by Jeff Anjelo Rondilla.");
